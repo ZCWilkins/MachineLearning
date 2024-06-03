@@ -3,5 +3,5 @@ Notebooks relating to Machine Learning. As projects are added they will categori
 
 Beginner:
 
-SimpleLinearRegressionProject
+1. SimpleLinearRegressionProject
   -  Simple project thats builds a Linear Regresison model in order to predict Sales based on TV advertising budget.
