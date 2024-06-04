@@ -8,3 +8,6 @@ Beginner:
   
 2. MultipleLinearRegression
     - Build a model that takes in two predictors and an interaction predictor to predict sales
+  
+3. ImageCompression
+    - Uses K-Means clustering to compress the colors of images
