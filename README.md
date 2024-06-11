@@ -11,3 +11,9 @@ Beginner:
   
 3. ImageCompression
     - Uses K-Means clustering to compress the colors of images
+
+
+Intermediate:
+
+1. SentimentAnalysis_movieReviews
+    - Build a logistic regression model to classify movie reviews
