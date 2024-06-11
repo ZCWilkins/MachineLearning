@@ -1,5 +1,5 @@
 # MachineLearning
-Notebooks relating to Machine Learning. As projects are added they will categorized here.
+Notebooks relating to Machine Learning. As projects are added, they will be categorized here.
 
 Beginner:
 
